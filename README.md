@@ -47,6 +47,7 @@ Built a fully interactive Power BI dashboard featuring:
 ---
 Open to remote opportunities in: Financial Analysis | Business Intelligence | Data Analytics | Accounting Systems
 
+![meridian-hr-dashboard](meridian-hr-dashboard.png)
 ## Project 2: HR Analytics Dashboard
 
 Built for Meridian Workforce Group. 500 employees across 5 countries. Power BI, DAX, interactive slicers.
