@@ -46,3 +46,12 @@ Built a fully interactive Power BI dashboard featuring:
 
 ---
 Open to remote opportunities in: Financial Analysis | Business Intelligence | Data Analytics | Accounting Systems
+
+## Project 2: HR Analytics Dashboard
+
+Built for Meridian Workforce Group. 500 employees across 5 countries. Power BI, DAX, interactive slicers.
+
+KPIs: Total Employees, Active Employees, Average Salary, Turnover Rate, Performance Rating
+
+Charts: Employees by Department, Salary by Country, Performance by Job Level, Status Distribution, Hiring Trend, Salary Distribution
+
