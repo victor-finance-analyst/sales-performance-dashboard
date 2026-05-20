@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard-screenshot.png)
 # Sales Performance Dashboard — Power BI
 ## Overview
 Interactive Power BI dashboard analyzing sales performance across regions, services, and sales representatives for Sentinel Operations Group. Built to replace a static Excel reporting system with real-time, filterable insights.
